@@ -18,13 +18,12 @@ A full-featured chat application that allows you to interact with various AI mod
 ## Screenshots
 
 ### Main Chat Interface
-![Interface](https://github.com/ritigit7/Chat-with-all/blob/main/images/Screenshot%20from%202025-04-21%2017-54-06.png)
-
-![Interface](https://github.com/ritigit7/Chat-with-all/blob/main/images/Screenshot%20from%202025-04-21%2017-54-10.png)
-![Interface](https://github.com/ritigit7/Chat-with-all/blob/main/images/Screenshot%20from%202025-04-21%2017-54-15.png)
-![Interface](https://github.com/ritigit7/Chat-with-all/blob/main/images/Screenshot%20from%202025-04-21%2017-54-19.png)
-![Interface](https://github.com/ritigit7/Chat-with-all/blob/main/images/Screenshot%20from%202025-04-21%2017-54-22.png)
-![Interface](https://github.com/ritigit7/Chat-with-all/blob/main/images/Screenshot%20from%202025-04-21%2017-54-26.png)
+![Interface](https://github.com/Henilgajera/Ollama-AI-Chat-Application/blob/main/images/Screenshot%20from%202025-04-21%2017-54-06.png)
+![Interface](https://github.com/Henilgajera/Ollama-AI-Chat-Application/blob/main/images/Screenshot%20from%202025-04-21%2017-54-10.png)
+![Interface](https://github.com/Henilgajera/Ollama-AI-Chat-Application/blob/main/images/Screenshot%20from%202025-04-21%2017-54-15.png)
+![Interface](https://github.com/Henilgajera/Ollama-AI-Chat-Application/blob/main/images/Screenshot%20from%202025-04-21%2017-54-19.png)
+![Interface](https://github.com/Henilgajera/Ollama-AI-Chat-Application/blob/main/images/Screenshot%20from%202025-04-21%2017-54-22.png)
+![Interface](https://github.com/Henilgajera/Ollama-AI-Chat-Application/blob/main/images/Screenshot%20from%202025-04-21%2017-54-26.png)
 
 
 ## Tech Stack
@@ -208,4 +207,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or support, please contact:
 
 Your Name - your.email@example.com  
-Project Link: [https://github.com/ritigit7/Chat-with-all](https://github.com/ritigit7/Chat-with-all)
+Project Link: [https://github.com/Henilgajera/Ollama-AI-Chat-Application](https://github.com/Henilgajera/Ollama-AI-Chat-Application)
